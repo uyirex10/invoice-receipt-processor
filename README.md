@@ -50,6 +50,24 @@ Background Queue Processing
 
 ---
 
+## System Architecture
+
+![Architecture](assets/architecture_flow.png)
+
+---
+
+## System Architecture
+
+![Structure](assets/project_structure.jpg)
+
+---
+
+## Processing Logs
+
+![Logs](assets/pipeline_logs.jpg)
+
+---
+
 # Tech Stack
 
 ## Backend
